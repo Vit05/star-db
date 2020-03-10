@@ -8,6 +8,7 @@ export default class RandomPlanet extends Component {
 
 
     state = {
+        property: 0,
         id:null,
         name: null,
         population: null,
