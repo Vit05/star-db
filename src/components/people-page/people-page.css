@@ -1,0 +1,19 @@
+.error-indicator {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.error-indicator img {
+    width: 100px;
+}
+.error-indicator .boom {
+    font-size: 20px;
+    font-weight: 700;
+    color: chocolate;
+}
+.error-indicator .txt {
+    font-size: 16px;
+    font-weight: 400;
+
+}
